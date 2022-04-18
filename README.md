@@ -49,7 +49,7 @@ Co-Founder 3인 + 팀원 4인 총 7인으로 구성되어 있으며 역할 중�
 - 사용자 편의 중심으로 사고하여 문제를 해결하는 분
 - 메타버스, NFT, 아트 등에 관심이 있으신 분
 
-📍 Python 백엔드 개발자 (2명)
+📍 Python 데이터 엔지니어 (2명)
 
 - Python 언어에 익숙하신 분
 - 기초적인 협업 스킬(Git,  Github)이 있으신 분
@@ -58,7 +58,7 @@ Co-Founder 3인 + 팀원 4인 총 7인으로 구성되어 있으며 역할 중�
 
 🌟 리오 스튜디오는 아래의 기술 스택을 사용합니다.
 
-- Typescript, Node.js ⇒ 제품 개발
+- Typescript, Node.js ⇒ 제품 개발 (웹 프론트 / 백엔드)
 - Python ⇒ 데이터 분석, 인공지능, 관리자 대쉬보드
 - Git, Github, Zeplin, Notion ⇒ 협업
 - VSCode, Pycharm ⇒ 코드 에디터
