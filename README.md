@@ -81,7 +81,7 @@ Co-Founder 3인 + 팀원 4인 총 7인으로 구성되어 있으며 역할 중�
 ### 🌈 편하게 문의해주세요!
 
 - Kakao: [https://open.kakao.com/o/sLMvKlbe](https://open.kakao.com/o/sLMvKlbe)
-- Email: pie.liostudio@gmail.com
+- Email: pie.liostudio@gmail.com 또는 pie@liostudio.co
 - 인스타그램 : [@lio__studio](https://www.instagram.com/lio__studio/?igshid=YmMyMTA2M2Y=) / [@whatliogazes](https://www.instagram.com/whatliogazes/?igshid=YmMyMTA2M2Y=)
 
 
